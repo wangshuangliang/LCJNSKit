@@ -1,0 +1,6 @@
+framework module WSLSFramework {
+  umbrella header "WSLSFramework.h"
+
+  export *
+  module * { export * }
+}

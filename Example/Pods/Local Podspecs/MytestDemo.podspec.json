@@ -18,5 +18,13 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "MytestDemo/Classes/**/*"
+  "source_files": "MytestDemo/Classes/**/*",
+  "ios": {
+    "vendored_frameworks": "Framework/WSLSFramework.framework"
+  },
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
 }

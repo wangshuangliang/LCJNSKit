@@ -8,6 +8,7 @@
 
 #import "HLWViewController.h"
 #import <WSLView.h>
+#import <WSLSFramework/WSLSFramework.h>
 
 @interface HLWViewController ()
 
@@ -19,6 +20,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    WSLView * sv = [[WSLView alloc] initWithFrame:CGRectMake(0, 0, 100, 100)];
+    [self.view addSubview:sv];
+    
+    SPerson * sp = [[SPerson alloc] init];
+    [sp goHome];
 }
 
 - (void)didReceiveMemoryWarning
