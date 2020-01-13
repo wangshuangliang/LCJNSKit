@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - MytestDemo (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - MytestDemo (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  MytestDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MytestDemo: d81349960c8abc7990feab15912ed14711b53974
+
+PODFILE CHECKSUM: 8c4c5857e86afa1b539520d810a4d6511b3f96ef
+
+COCOAPODS: 1.8.4
