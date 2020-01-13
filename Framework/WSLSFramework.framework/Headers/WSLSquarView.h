@@ -12,6 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface WSLSquarView : UIView
 
+- (void)dismiss;
+
 @end
 
 NS_ASSUME_NONNULL_END

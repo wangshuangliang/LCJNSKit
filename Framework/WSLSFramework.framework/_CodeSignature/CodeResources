@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/WSLSquarView.h</key>
 		<data>
-		6VVlkJbqhw1F9wQKKnG+kfjuu6Q=
+		46xQ0+FoCWZnFcSJjjF6iedQLXE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -53,11 +53,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6VVlkJbqhw1F9wQKKnG+kfjuu6Q=
+			46xQ0+FoCWZnFcSJjjF6iedQLXE=
 			</data>
 			<key>hash2</key>
 			<data>
-			beRlt7cHVO8BhjodXOtV3ALuSrCs0rAZxZ3Ot2/TnaY=
+			u3FVVNNEeq/GocaCKP3cLZsvWgmRyd+g4NGeYVEKXvg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
