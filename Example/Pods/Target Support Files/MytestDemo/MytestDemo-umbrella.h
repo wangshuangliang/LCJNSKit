@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "WSLView.h"
 
 FOUNDATION_EXPORT double MytestDemoVersionNumber;
 FOUNDATION_EXPORT const unsigned char MytestDemoVersionString[];

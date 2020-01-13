@@ -7,6 +7,7 @@
 //
 
 #import "HLWViewController.h"
+#import <WSLView.h>
 
 @interface HLWViewController ()
 
