@@ -7,7 +7,7 @@
 //
 
 #import "QJChatListTableViewCell.h"
-#import "Masonry.h"
+#import "QJIMHeader.h"
 
 @interface QJChatListTableViewCell()
 

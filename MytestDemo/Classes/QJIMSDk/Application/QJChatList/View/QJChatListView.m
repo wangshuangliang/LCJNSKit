@@ -7,6 +7,7 @@
 //
 
 #import "QJChatListView.h"
+#import "QJIMHeader.h"
 #import "QJChatListTableViewCell.h"
 #import <WSLSFramework/WSLSFramework.h>
 
@@ -25,6 +26,7 @@
         [self componentInit];
         SPerson * p = [[SPerson alloc] init];
         [p goHome];
+        
     }
     return self;
 }
