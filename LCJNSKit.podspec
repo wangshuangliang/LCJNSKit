@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LCJNSKit'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'LCJNSKit 保存本的成功的cocopods项目'
 
 # This description is used to generate tags and improve search results.
