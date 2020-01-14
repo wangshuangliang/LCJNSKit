@@ -8,6 +8,7 @@
 
 #import "QJChatListView.h"
 #import "QJChatListTableViewCell.h"
+#import <WSLSFramework/WSLSFramework.h>
 
 @interface QJChatListView()<UITableViewDelegate,UITableViewDataSource>
 
@@ -22,6 +23,8 @@
     if (self = [super initWithFrame:frame]) {
         
         [self componentInit];
+        SPerson * p = [[SPerson alloc] init];
+        [p goHome];
     }
     return self;
 }
